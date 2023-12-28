@@ -1,0 +1,3 @@
+leaves and nodes alike
+building the tree's structure up
+data in balance
