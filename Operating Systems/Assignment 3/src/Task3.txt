@@ -1,0 +1,701 @@
+C:\Users\chien\eclipse-workspace\PA3\src>make regression
+"Dining Philosophers Application has been built."
+3 philosopher(s) came in for a dinner.
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 2 has started eating.
+Philosopher 0 has started thinking.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 0 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 1 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 0 has finished talking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 1 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 0 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 0 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: That which does not kill us makes us stronger.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 0 has finished talking.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 0 is getting hungry...
+Philosopher 0 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: That which does not kill us makes us stronger.
+Philosopher 0 has finished talking.
+Philosopher 2 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 2 has finished thinking.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 1 has finished talking.
+All philosophers have left. System terminates normally.
+4 philosopher(s) came in for a dinner.
+Philosopher 2 has started eating.
+Philosopher 0 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 2 has finished talking.
+Philosopher 2 has started eating.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 3 is getting hungry...
+Philosopher 3 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 1 has finished talking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 0 has finished talking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 3 is getting hungry...
+Philosopher 3 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: That which does not kill us makes us stronger.
+Philosopher 0 has finished talking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started eating.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 is getting hungry...
+Philosopher 0 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 3 has finished talking.
+Philosopher 3 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: That which does not kill us makes us stronger.
+Philosopher 0 has finished talking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started eating.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 3 has finished talking.
+Philosopher 3 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 0 is getting hungry...
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 2 has finished talking.
+Philosopher 2 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 3 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: That which does not kill us makes us stronger.
+Philosopher 2 has finished talking.
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 3 is getting hungry...
+Philosopher 3 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 0 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 0 has finished talking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 2 has finished talking.
+Philosopher 2 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 3 has finished talking.
+Philosopher 3 has started eating.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: That which does not kill us makes us stronger.
+Philosopher 1 has finished talking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: That which does not kill us makes us stronger.
+Philosopher 2 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 3 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 0 has finished thinking.
+All philosophers have left. System terminates normally.
+Philosopher 2 has started eating.
+5 philosopher(s) came in for a dinner.
+Philosopher 0 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 3 has started eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 4 has started eating.
+Philosopher 2 has started eating.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 2 has finished talking.
+Philosopher 4 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 4 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 1 has finished thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 2 has finished talking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 0 has finished talking.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 4 has finished talking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 3 has finished talking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 4 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 3 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 0 has finished talking.
+Philosopher 0 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: That which does not kill us makes us stronger.
+Philosopher 2 has finished talking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: That which does not kill us makes us stronger.
+Philosopher 3 has finished talking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 4 has finished thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 3 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 3 has finished talking.
+Philosopher 3 has started eating.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started eating.
+Philosopher 4 is getting hungry...
+Philosopher 4 has started eating.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 2 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 3 has finished talking.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has finished talking.
+Philosopher 0 is getting hungry...
+Philosopher 0 has started eating.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 3 is getting hungry...
+Philosopher 3 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started eating.
+Philosopher 1 is getting hungry...
+Philosopher 1 has started eating.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 0 has finished talking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 0 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 4 has finished thinking.
+Philosopher 3 has finished thinking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 3 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 2 has finished talking.
+Philosopher 1 has finished thinking.
+Philosopher 0 has finished eating.
+Philosopher 0 has started thinking.
+Philosopher 1 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 4 has started eating.
+Philosopher 0 has finished thinking.
+Philosopher 0 has started talking.
+Philosopher 0 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 0 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 4 has finished eating.
+Philosopher 3 has finished thinking.
+Philosopher 4 has started thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 3 has finished talking.
+Philosopher 3 has started eating.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 2 has finished talking.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started talking.
+Philosopher 1 has finished thinking.
+Philosopher 4 says: It is not death that a man should fear, but he should fear never beginning to live.
+Philosopher 1 has started eating.
+Philosopher 4 has finished talking.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 4 has started eating.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started eating.
+Philosopher 3 has finished thinking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 3 has started eating.
+Philosopher 2 is getting hungry...
+Philosopher 2 has started eating.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 4 has finished thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: When you look into an abyss, the abyss also looks into you.
+Philosopher 4 has finished talking.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: That which does not kill us makes us stronger.
+Philosopher 1 has finished talking.
+Philosopher 1 has started eating.
+Philosopher 3 has finished eating.
+Philosopher 3 has started thinking.
+Philosopher 3 has finished thinking.
+Philosopher 2 has finished thinking.
+Philosopher 1 has finished eating.
+Philosopher 1 has started thinking.
+Philosopher 2 has started eating.
+Philosopher 4 is getting hungry...
+Philosopher 4 has started eating.
+Philosopher 2 has finished eating.
+Philosopher 2 has started thinking.
+Philosopher 1 has finished thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Waste no more time arguing about what a good man should be. Be one.
+Philosopher 1 has finished talking.
+Philosopher 2 has finished thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: To live is to suffer, to survive is to find some meaning in the suffering.
+Philosopher 2 has finished talking.
+Philosopher 4 has finished eating.
+Philosopher 4 has started thinking.
+Philosopher 4 has finished thinking.
+All philosophers have left. System terminates normally.
