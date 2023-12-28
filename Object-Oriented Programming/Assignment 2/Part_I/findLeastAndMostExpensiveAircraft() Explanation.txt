@@ -1,0 +1,2 @@
+The findLeastAndMostExpensiveAircraft() method works as intended since it takes an array and displays the least and most expensive aircrafts and displays if there is only one aircraft or none, as shown in the output.
+The for loop iterates through the given array, and keeps track of the least and most expensive aircrafts and updates them accordingly. Further explaination of the method is found in the comments of the code.

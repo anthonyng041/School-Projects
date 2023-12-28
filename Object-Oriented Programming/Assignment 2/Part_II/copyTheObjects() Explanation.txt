@@ -1,0 +1,2 @@
+The copyTheObjects method works as expected. It takes an array and makes a copy of it, as shown in the output. It uses a for loop that iterates through the array, and verifies the class of each object to be able to copy it to a new array.
+Further explaination of the method is in the comments of the code.
